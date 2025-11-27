@@ -1,0 +1,114 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 25-11-20 ÉÏÎç10:38
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: moe/takochan/takotech/common/item/ic2/ItemToolboxPlus
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163)
+	at cpw.mods.fml.common.Loader.preinitializeMods(Loader.java:559)
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:243)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:522)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:942)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:40)
+Caused by: java.lang.NoClassDefFoundError: moe/takochan/takotech/common/item/ic2/ItemToolboxPlus
+	at moe.takochan.takotech.common.loader.ItemLoader.<init>(ItemLoader.java:18)
+	at moe.takochan.takotech.common.CommonProxy.preInit(CommonProxy.java:40)
+	at moe.takochan.takotech.TakoTechMod.preInit(TakoTechMod.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.preinitializeMods(Loader.java:556)
+	... 12 more
+Caused by: java.lang.ClassNotFoundException: moe.takochan.takotech.common.item.ic2.ItemToolboxPlus
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:419)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:352)
+	... 41 more
+Caused by: java.lang.NoClassDefFoundError: ic2/core/item/IHandHeldInventory
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:757)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 43 more
+Caused by: java.lang.ClassNotFoundException: ic2.core.item.IHandHeldInventory
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:419)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:352)
+	... 47 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 1.8.0_472, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Azul Systems, Inc.
+	Memory: 1202646216 bytes (1146 MB) / 1916796928 bytes (1828 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 2 total; -Xms1G -Xmx6G
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 22 mods loaded, 22 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCH	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCH	GTNHLib Core{0.6.39} [GTNHLib Core] (minecraft.jar) 
+	UCH	FML{7.10.99.99} [Forge Mod Loader] (recompiled_minecraft-1.7.10.jar) 
+	UCH	Forge{10.13.4.1614} [Minecraft Forge] (recompiled_minecraft-1.7.10.jar) 
+	UCH	NotEnoughItems{2.7.87-GTNH} [NotEnoughItems] (NotEnoughItems-2.7.87-GTNH-dev.jar) 
+	UCH	CodeChickenCore{1.4.7} [CodeChicken Core] (minecraft.jar) 
+	UCH	appliedenergistics2-core{rv3-beta-688-GTNH} [Applied Energistics 2 Core] (minecraft.jar) 
+	UCH	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCH	gtnhlib{0.6.39} [GTNH Lib] (GTNHLib-0.6.39-dev.jar) 
+	UCH	appliedenergistics2{rv3-beta-688-GTNH} [Applied Energistics 2] (Applied-Energistics-2-Unofficial-rv3-beta-688-GTNH-dev.jar) 
+	UCH	portablemechest{0.1.0} [PortableMEChest] (portablemechest-721a5a8-main+721a5a8cfe-dirty-dev.jar) 
+	UCE	TakoTech{0.3.2} [TakoTech] (TakoTech-0.3.2.jar) 
+	UCH	CoFHCore{1.7.10R3.1.4} [CoFH Core] (cofh-core-69162-2388751.jar) 
+	UCH	unimixins{0.1.22} [UniMixins] (unimixins-0.1.22-dev.jar) 
+	UCH	unimixins-mixin{0.1.22} [UniMixins: Mixin (UniMix)] (unimixins-0.1.22-dev.jar) 
+	UCH	unimixins-compat{0.1.22} [UniMixins: Compatibility] (unimixins-0.1.22-dev.jar) 
+	UCH	mixingasm{0.3} [UniMixins: Mixingasm] (unimixins-0.1.22-dev.jar) 
+	UCH	spongemixins{2.0.1} [UniMixins: SpongeMixins] (unimixins-0.1.22-dev.jar) 
+	UCH	mixinbooterlegacy{1.2.1} [UniMixins: MixinBooterLegacy] (unimixins-0.1.22-dev.jar) 
+	UCH	gasstation{0.5.1} [UniMixins: GasStation] (unimixins-0.1.22-dev.jar) 
+	UCH	gtnhmixins{2.2.0} [UniMixins: GTNHMixins] (unimixins-0.1.22-dev.jar) 
+	UCH	mixinextras{0.1.22} [UniMixins: MixinExtras] (unimixins-0.1.22-dev.jar) 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 577.03' Renderer: 'NVIDIA GeForce RTX 3070 Ti Laptop GPU/PCIe/SSE2'
+	AE2 Version: rv3-beta-688-GTNH for Forge 10.13.4.1614
+	CoFHCore: -[1.7.10]3.1.4-329
+	Mixins in Stacktrace: 
+		cpw.mods.fml.common.LoadController:
+			mixins.gtnhmixins.json:LateMixinOrchestrationMixin from mod (unknown)
+			mixin.mixinbooterlegacy.json:LoadControllerMixin from mod (unknown)

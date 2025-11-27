@@ -1,0 +1,1052 @@
+Mod:Item:MetaData, Localized Name
+minecraft:stone, 石头
+minecraft:grass, 草方块
+minecraft:dirt:0, 泥土
+minecraft:dirt:2, 灰化土
+minecraft:cobblestone, 圆石
+minecraft:planks:0, 橡木木板
+minecraft:planks:1, 云杉木板
+minecraft:planks:2, 白桦木板
+minecraft:planks:3, 丛林木板
+minecraft:planks:4, 金合欢木板
+minecraft:planks:5, 深色橡木木板
+minecraft:sapling:0, 橡树树苗
+minecraft:sapling:1, 云杉树苗
+minecraft:sapling:2, 白桦树苗
+minecraft:sapling:3, 丛林树苗
+minecraft:sapling:4, 金合欢树苗
+minecraft:sapling:5, 深色橡树树苗
+minecraft:bedrock, 基岩
+minecraft:flowing_water, 水
+minecraft:water, 水
+minecraft:flowing_lava, 岩浆
+minecraft:lava, 岩浆
+minecraft:sand:0, 沙子
+minecraft:sand:1, 红沙
+minecraft:gravel, 沙砾
+minecraft:gold_ore, 金矿石
+minecraft:iron_ore, 铁矿石
+minecraft:coal_ore, 煤矿石
+minecraft:log:0, 橡木
+minecraft:log:1, 云杉木
+minecraft:log:2, 白桦木
+minecraft:log:3, 丛林木
+minecraft:leaves:0, 橡树树叶
+minecraft:leaves:1, 云杉树叶
+minecraft:leaves:2, 白桦树叶
+minecraft:leaves:3, 丛林树叶
+minecraft:sponge, 海绵
+minecraft:glass, 玻璃
+minecraft:lapis_ore, 青金石矿石
+minecraft:lapis_block, 青金石块
+minecraft:dispenser, 发射器
+minecraft:sandstone:0, 沙石
+minecraft:sandstone:1, 錾制沙石
+minecraft:sandstone:2, 平滑沙石
+minecraft:noteblock, 音符盒
+minecraft:golden_rail, 动力铁轨
+minecraft:detector_rail, 探测铁轨
+minecraft:sticky_piston, 粘性活塞
+minecraft:web, 蜘蛛网
+minecraft:tallgrass:1, 草
+minecraft:tallgrass:2, 蕨
+minecraft:deadbush, 枯死的灌木
+minecraft:piston, 活塞
+minecraft:wool:0, 羊毛
+minecraft:wool:1, 橙色羊毛
+minecraft:wool:2, 品红色羊毛
+minecraft:wool:3, 淡蓝色羊毛
+minecraft:wool:4, 黄色羊毛
+minecraft:wool:5, 黄绿色羊毛
+minecraft:wool:6, 粉红色羊毛
+minecraft:wool:7, 灰色羊毛
+minecraft:wool:8, 淡灰色羊毛
+minecraft:wool:9, 青色羊毛
+minecraft:wool:10, 紫色羊毛
+minecraft:wool:11, 蓝色羊毛
+minecraft:wool:12, 棕色羊毛
+minecraft:wool:13, 绿色羊毛
+minecraft:wool:14, 红色羊毛
+minecraft:wool:15, 黑色羊毛
+minecraft:yellow_flower:0, 蒲公英
+minecraft:red_flower:0, 罂粟
+minecraft:red_flower:1, 兰花
+minecraft:red_flower:2, 绒球葱
+minecraft:red_flower:3, 茜草花
+minecraft:red_flower:4, 红色郁金香
+minecraft:red_flower:5, 橙色郁金香
+minecraft:red_flower:6, 白色郁金香
+minecraft:red_flower:7, 粉红色郁金香
+minecraft:red_flower:8, 滨菊
+minecraft:brown_mushroom, 蘑菇
+minecraft:red_mushroom, 蘑菇
+minecraft:gold_block, 金块
+minecraft:iron_block, 铁块
+minecraft:stone_slab:0, 石台阶
+minecraft:stone_slab:1, 沙石台阶
+minecraft:stone_slab:3, 圆石台阶
+minecraft:stone_slab:4, 砖台阶
+minecraft:stone_slab:5, 石砖台阶
+minecraft:stone_slab:6, 地狱砖台阶
+minecraft:stone_slab:7, 石英台阶
+minecraft:brick_block, 砖块
+minecraft:tnt, TNT
+minecraft:bookshelf, 书架
+minecraft:mossy_cobblestone, 苔石
+minecraft:obsidian, 黑曜石
+minecraft:torch, 火把
+minecraft:fire, 火
+minecraft:mob_spawner:0, 刷怪箱
+minecraft:oak_stairs, 橡木楼梯
+minecraft:chest, 箱子
+minecraft:diamond_ore, 钻石矿石
+minecraft:diamond_block, 钻石块
+minecraft:crafting_table, 工作台
+minecraft:farmland, 耕地
+minecraft:furnace, 熔炉
+minecraft:lit_furnace, 熔炉
+minecraft:ladder, 梯子
+minecraft:rail, 铁轨
+minecraft:stone_stairs, 石楼梯
+minecraft:lever, 拉杆
+minecraft:stone_pressure_plate, 压力板
+minecraft:wooden_pressure_plate, 压力板
+minecraft:redstone_ore, 红石矿石
+minecraft:redstone_torch, 红石火把
+minecraft:stone_button, 按钮
+minecraft:snow_layer:0, 雪
+minecraft:ice, 冰
+minecraft:snow, 雪
+minecraft:cactus, 仙人掌
+minecraft:clay, 粘土块
+minecraft:jukebox, 唱片机
+minecraft:fence, 栅栏
+minecraft:pumpkin, 南瓜
+minecraft:netherrack, 地狱岩
+minecraft:soul_sand, 灵魂沙
+minecraft:glowstone, 萤石
+minecraft:portal, 传送门
+minecraft:lit_pumpkin, 南瓜灯
+minecraft:stained_glass:0, 白色染色玻璃
+minecraft:stained_glass:1, 橙色染色玻璃
+minecraft:stained_glass:2, 品红色染色玻璃
+minecraft:stained_glass:3, 淡蓝色染色玻璃
+minecraft:stained_glass:4, 黄色染色玻璃
+minecraft:stained_glass:5, 黄绿色染色玻璃
+minecraft:stained_glass:6, 粉红色染色玻璃
+minecraft:stained_glass:7, 灰色染色玻璃
+minecraft:stained_glass:8, 淡灰色染色玻璃
+minecraft:stained_glass:9, 青色染色玻璃
+minecraft:stained_glass:10, 紫色染色玻璃
+minecraft:stained_glass:11, 蓝色染色玻璃
+minecraft:stained_glass:12, 棕色染色玻璃
+minecraft:stained_glass:13, 绿色染色玻璃
+minecraft:stained_glass:14, 红色染色玻璃
+minecraft:stained_glass:15, 黑色染色玻璃
+minecraft:trapdoor, 活板门
+minecraft:monster_egg:0, 石头怪物蛋
+minecraft:monster_egg:1, 圆石怪物蛋
+minecraft:monster_egg:2, 石砖怪物蛋
+minecraft:monster_egg:3, 苔石砖怪物蛋
+minecraft:monster_egg:4, 裂石砖怪物蛋
+minecraft:monster_egg:5, 錾制石砖怪物蛋
+minecraft:stonebrick:0, 石砖
+minecraft:stonebrick:1, 苔石砖
+minecraft:stonebrick:2, 裂石砖
+minecraft:stonebrick:3, 錾制石砖
+minecraft:brown_mushroom_block, 蘑菇
+minecraft:red_mushroom_block, 蘑菇
+minecraft:iron_bars, 铁栏杆
+minecraft:glass_pane, 玻璃板
+minecraft:melon_block, 西瓜
+minecraft:vine, 藤蔓
+minecraft:fence_gate, 栅栏门
+minecraft:brick_stairs, 砖楼梯
+minecraft:stone_brick_stairs, 石砖楼梯
+minecraft:mycelium, 菌丝
+minecraft:waterlily, 睡莲
+minecraft:nether_brick, 地狱砖块
+minecraft:nether_brick_fence, 地狱砖栅栏
+minecraft:nether_brick_stairs, 地狱砖楼梯
+minecraft:enchanting_table, 附魔台
+minecraft:end_portal, tile.null.name
+minecraft:end_portal_frame, 末地传送门
+minecraft:end_stone, 末地石
+minecraft:dragon_egg, 龙蛋
+minecraft:redstone_lamp, 红石灯
+minecraft:wooden_slab:0, 橡木台阶
+minecraft:wooden_slab:1, 云杉台阶
+minecraft:wooden_slab:2, 桦木台阶
+minecraft:wooden_slab:3, 丛林台阶
+minecraft:wooden_slab:4, 金合欢木台阶
+minecraft:wooden_slab:5, 深色橡木台阶
+minecraft:cocoa, 可可果
+minecraft:sandstone_stairs, 沙石楼梯
+minecraft:emerald_ore, 绿宝石矿石
+minecraft:ender_chest, 末影箱
+minecraft:tripwire_hook, 绊线钩
+minecraft:emerald_block, 绿宝石块
+minecraft:spruce_stairs, 云杉木楼梯
+minecraft:birch_stairs, 桦木楼梯
+minecraft:jungle_stairs, 丛林木楼梯
+minecraft:command_block, 命令方块
+minecraft:beacon, 信标
+minecraft:cobblestone_wall:0, 圆石墙
+minecraft:cobblestone_wall:1, 苔石墙
+minecraft:carrots, 胡萝卜
+minecraft:potatoes, 马铃薯
+minecraft:wooden_button, 按钮
+minecraft:anvil:0, 铁砧
+minecraft:anvil:1, 轻微损坏的铁砧
+minecraft:anvil:2, 严重损坏的铁砧
+minecraft:trapped_chest, 陷阱箱
+minecraft:light_weighted_pressure_plate, 测重压力板 (轻质)
+minecraft:heavy_weighted_pressure_plate, 测重压力板 (重质)
+minecraft:daylight_detector, 阳光传感器
+minecraft:redstone_block, 红石块
+minecraft:quartz_ore, 下界石英矿石
+minecraft:hopper, 漏斗
+minecraft:quartz_block:0, 石英块
+minecraft:quartz_block:1, 錾制石英块
+minecraft:quartz_block:2, 竖纹石英块
+minecraft:quartz_stairs, 石英楼梯
+minecraft:activator_rail, 激活铁轨
+minecraft:dropper, 投掷器
+minecraft:stained_hardened_clay:0, 白色染色粘土
+minecraft:stained_hardened_clay:1, 橙色染色粘土
+minecraft:stained_hardened_clay:2, 品红色染色粘土
+minecraft:stained_hardened_clay:3, 淡蓝色染色粘土
+minecraft:stained_hardened_clay:4, 黄色染色粘土
+minecraft:stained_hardened_clay:5, 黄绿色染色粘土
+minecraft:stained_hardened_clay:6, 粉色染色粘土
+minecraft:stained_hardened_clay:7, 灰色染色粘土
+minecraft:stained_hardened_clay:8, 淡灰色染色粘土
+minecraft:stained_hardened_clay:9, 青色染色粘土
+minecraft:stained_hardened_clay:10, 紫色染色粘土
+minecraft:stained_hardened_clay:11, 蓝色染色粘土
+minecraft:stained_hardened_clay:12, 棕色染色粘土
+minecraft:stained_hardened_clay:13, 绿色染色粘土
+minecraft:stained_hardened_clay:14, 红色染色粘土
+minecraft:stained_hardened_clay:15, 黑色染色粘土
+minecraft:stained_glass_pane:0, 白色染色玻璃板
+minecraft:stained_glass_pane:1, 橙色染色玻璃板
+minecraft:stained_glass_pane:2, 品红色染色玻璃板
+minecraft:stained_glass_pane:3, 淡蓝色染色玻璃板
+minecraft:stained_glass_pane:4, 黄色染色玻璃板
+minecraft:stained_glass_pane:5, 黄绿色染色玻璃板
+minecraft:stained_glass_pane:6, 粉红色染色玻璃板
+minecraft:stained_glass_pane:7, 灰色染色玻璃板
+minecraft:stained_glass_pane:8, 淡灰色染色玻璃板
+minecraft:stained_glass_pane:9, 青色染色玻璃板
+minecraft:stained_glass_pane:10, 紫色染色玻璃板
+minecraft:stained_glass_pane:11, 蓝色染色玻璃板
+minecraft:stained_glass_pane:12, 棕色染色玻璃板
+minecraft:stained_glass_pane:13, 绿色染色玻璃板
+minecraft:stained_glass_pane:14, 红色染色玻璃板
+minecraft:stained_glass_pane:15, 黑色染色玻璃板
+minecraft:leaves2:0, 金合欢树叶
+minecraft:leaves2:1, 深色橡树树叶
+minecraft:log2:0, 金合欢木
+minecraft:log2:1, 深色橡木
+minecraft:acacia_stairs, 金合欢木楼梯
+minecraft:dark_oak_stairs, 深色橡木楼梯 
+appliedenergistics2:tile.OreQuartz, 赛特斯石英矿石
+appliedenergistics2:tile.OreQuartzCharged, 充能赛特斯石英矿石
+appliedenergistics2:tile.BlockMatrixFrame, 矩阵框架
+appliedenergistics2:tile.BlockQuartz, 赛特斯石英块
+appliedenergistics2:tile.BlockQuartzPillar, 赛特斯竖纹石英块
+minecraft:hay_block, 干草块
+minecraft:carpet:0, 地毯
+minecraft:carpet:1, 橙色地毯
+minecraft:carpet:2, 品红色地毯
+minecraft:carpet:3, 淡蓝色地毯
+minecraft:carpet:4, 黄色地毯
+minecraft:carpet:5, 黄绿色地毯
+minecraft:carpet:6, 粉红色地毯
+minecraft:carpet:7, 灰色地毯
+minecraft:carpet:8, 淡灰色地毯
+minecraft:carpet:9, 青色地毯
+minecraft:carpet:10, 紫色地毯
+minecraft:carpet:11, 蓝色地毯
+minecraft:carpet:12, 棕色地毯
+minecraft:carpet:13, 绿色地毯
+minecraft:carpet:14, 红色地毯
+minecraft:carpet:15, 黑色地毯
+minecraft:hardened_clay, 硬化粘土
+minecraft:coal_block, 煤炭块
+minecraft:packed_ice, 浮冰
+minecraft:double_plant:0, 向日葵
+minecraft:double_plant:1, 丁香
+minecraft:double_plant:2, 高草丛
+minecraft:double_plant:3, 大型蕨
+minecraft:double_plant:4, 玫瑰丛
+minecraft:double_plant:5, 牡丹
+appliedenergistics2:tile.BlockQuartzChiseled, 錾制赛特斯石英块
+appliedenergistics2:tile.BlockQuartzGlass, 石英玻璃
+appliedenergistics2:tile.BlockQuartzLamp, 聚能石英玻璃
+appliedenergistics2:tile.BlockQuartzTorch, 充能石英火把
+appliedenergistics2:tile.BlockFluix, 福鲁伊克斯块
+appliedenergistics2:tile.BlockSkyStone:0, 陨石
+appliedenergistics2:tile.BlockSkyStone:1, 陨石块
+appliedenergistics2:tile.BlockSkyStone:2, 陨石石砖
+appliedenergistics2:tile.BlockSkyStone:3, 陨石砖块
+appliedenergistics2:tile.BlockSkyChest:0, 陨石箱子
+appliedenergistics2:tile.BlockSkyChest:1, 陨石块箱子
+appliedenergistics2:tile.BlockSkyCompass, 陨石罗盘
+appliedenergistics2:tile.BlockGrinder, 石英磨具
+appliedenergistics2:tile.BlockCrank, 木质曲柄
+appliedenergistics2:tile.BlockInscriber, 压印器
+appliedenergistics2:tile.BlockWireless, ME无线访问点
+appliedenergistics2:tile.BlockCharger, 充能器
+appliedenergistics2:tile.BlockTinyTNT, 迷你TNT
+appliedenergistics2:tile.BlockSecurity, ME安全终端
+appliedenergistics2:tile.BlockQuantumRing, ME量子环
+appliedenergistics2:tile.BlockQuantumLinkChamber, ME量子链接仓
+appliedenergistics2:tile.BlockSpatialPylon, 空间塔
+appliedenergistics2:tile.BlockSpatialIOPort, 空间IO端口
+appliedenergistics2:tile.BlockCableBus, AE线缆/总线
+appliedenergistics2:tile.BlockController, ME控制器
+appliedenergistics2:tile.BlockCreativeEnergyController, ME Self Powered Controller
+appliedenergistics2:tile.BlockDrive, ME驱动器
+appliedenergistics2:tile.BlockChest, ME箱子
+appliedenergistics2:tile.BlockInterface, ME接口
+appliedenergistics2:tile.BlockCellWorkbench, 元件工作台
+appliedenergistics2:tile.BlockIOPort, ME-IO端口
+appliedenergistics2:tile.BlockCondenser, 物质聚合器
+appliedenergistics2:tile.BlockEnergyAcceptor, 能源接收器
+appliedenergistics2:tile.BlockVibrationChamber, 谐振仓
+appliedenergistics2:tile.BlockQuartzGrowthAccelerator, 晶体催生器
+appliedenergistics2:tile.BlockEnergyCell, 能源元件
+appliedenergistics2:tile.BlockDenseEnergyCell, 致密能源元件
+appliedenergistics2:tile.BlockCreativeEnergyCell, 创造能源元件
+appliedenergistics2:tile.BlockCraftingUnit:0, 合成单元
+appliedenergistics2:tile.BlockCraftingUnit:1, 并行处理单元
+appliedenergistics2:tile.BlockCraftingUnit:2, 4核并行处理单元
+appliedenergistics2:tile.BlockCraftingUnit:3, 16核并行处理单元
+appliedenergistics2:tile.BlockAdvancedCraftingUnit:0, 64核并行处理单元
+appliedenergistics2:tile.BlockAdvancedCraftingUnit:1, 256核并行处理单元
+appliedenergistics2:tile.BlockAdvancedCraftingUnit:2, 1024核并行处理单元
+appliedenergistics2:tile.BlockAdvancedCraftingUnit:3, 4096核并行处理单元
+appliedenergistics2:tile.BlockCraftingStorage:0, 1k合成存储器
+appliedenergistics2:tile.BlockCraftingStorage:1, 4k合成存储器
+appliedenergistics2:tile.BlockCraftingStorage:2, 16k合成存储器
+appliedenergistics2:tile.BlockCraftingStorage:3, 64k合成存储器
+appliedenergistics2:tile.BlockAdvancedCraftingStorage:0, 256k合成存储器
+appliedenergistics2:tile.BlockAdvancedCraftingStorage:1, 1024k合成存储器
+appliedenergistics2:tile.BlockAdvancedCraftingStorage:2, 4096k合成存储器
+appliedenergistics2:tile.BlockAdvancedCraftingStorage:3, 16384k合成存储器
+appliedenergistics2:tile.BlockSingularityCraftingStorage:0, 奇点合成存储器
+appliedenergistics2:tile.BlockCraftingMonitor:0, 合成监控器
+appliedenergistics2:tile.BlockMolecularAssembler, 分子装配室
+appliedenergistics2:tile.BlockLightDetector, 光亮探测器
+appliedenergistics2:tile.BlockPaint, Paint
+appliedenergistics2:tile.BlockPatternOptimizationMatrix, 样板优化矩阵
+appliedenergistics2:tile.SkyStoneStairBlock, 陨石楼梯
+appliedenergistics2:tile.SkyStoneBlockStairBlock, 陨石块楼梯
+appliedenergistics2:tile.SkyStoneBrickStairBlock, 陨石石砖楼梯
+appliedenergistics2:tile.SkyStoneSmallBrickStairBlock, 陨石砖块楼梯
+appliedenergistics2:tile.FluixStairBlock, 福鲁伊克斯楼梯
+appliedenergistics2:tile.QuartzStairBlock, 赛特斯石英楼梯
+appliedenergistics2:tile.ChiseledQuartzStairBlock, 錾制赛特斯石英楼梯
+appliedenergistics2:tile.QuartzPillarStairBlock, 竖纹赛特斯石英楼梯
+appliedenergistics2:tile.SkyStoneSlabBlock:0, 陨石台阶
+appliedenergistics2:tile.SkyStoneSlabBlock.double:0, 陨石台阶
+appliedenergistics2:tile.SkyStoneBlockSlabBlock:0, 陨石块台阶
+appliedenergistics2:tile.SkyStoneBlockSlabBlock.double:0, 陨石块台阶
+appliedenergistics2:tile.SkyStoneBrickSlabBlock:0, 陨石石砖台阶
+appliedenergistics2:tile.SkyStoneBrickSlabBlock.double:0, 陨石石砖台阶
+appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock:0, 陨石砖块台阶
+appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock.double:0, 陨石砖块台阶
+appliedenergistics2:tile.FluixSlabBlock:0, 福鲁伊克斯台阶
+appliedenergistics2:tile.FluixSlabBlock.double:0, 福鲁伊克斯台阶
+appliedenergistics2:tile.QuartzSlabBlock:0, 赛特斯石英台阶
+appliedenergistics2:tile.QuartzSlabBlock.double:0, 赛特斯石英台阶
+appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, 錾制赛特斯石英台阶
+appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, 錾制赛特斯石英台阶
+appliedenergistics2:tile.QuartzPillarSlabBlock:0, 竖纹赛特斯石英台阶
+appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, 竖纹赛特斯石英台阶
+minecraft:iron_shovel, 铁锹
+minecraft:iron_pickaxe, 铁镐
+minecraft:iron_axe, 铁斧
+minecraft:flint_and_steel, 打火石
+minecraft:apple, 苹果
+minecraft:bow, 弓
+minecraft:arrow, 箭
+minecraft:coal:0, 煤炭
+minecraft:coal:1, 木炭
+minecraft:diamond, 钻石
+minecraft:iron_ingot, 铁锭
+minecraft:gold_ingot, 金锭
+minecraft:iron_sword, 铁剑
+minecraft:wooden_sword, 木剑
+minecraft:wooden_shovel, 木锹
+minecraft:wooden_pickaxe, 木镐
+minecraft:wooden_axe, 木斧
+minecraft:stone_sword, 石剑
+minecraft:stone_shovel, 石锹
+minecraft:stone_pickaxe, 石镐
+minecraft:stone_axe, 石斧
+minecraft:diamond_sword, 钻石剑
+minecraft:diamond_shovel, 钻石锹
+minecraft:diamond_pickaxe, 钻石镐
+minecraft:diamond_axe, 钻石斧
+minecraft:stick, 木棍
+minecraft:bowl, 碗
+minecraft:mushroom_stew, 蘑菇煲
+minecraft:golden_sword, 金剑
+minecraft:golden_shovel, 金锹
+minecraft:golden_pickaxe, 金镐
+minecraft:golden_axe, 金斧
+minecraft:string, 线
+minecraft:feather, 羽毛
+minecraft:gunpowder, 火药
+minecraft:wooden_hoe, 木锄
+minecraft:stone_hoe, 石锄
+minecraft:iron_hoe, 铁锄
+minecraft:diamond_hoe, 钻石锄
+minecraft:golden_hoe, 金锄
+minecraft:wheat_seeds, 小麦种子
+minecraft:wheat, 小麦
+minecraft:bread, 面包
+minecraft:leather_helmet, 皮革帽子
+minecraft:leather_chestplate, 皮革外套
+minecraft:leather_leggings, 皮革裤子
+minecraft:leather_boots, 皮革靴子
+minecraft:chainmail_helmet, 锁链头盔
+minecraft:chainmail_chestplate, 锁链胸甲
+minecraft:chainmail_leggings, 锁链护腿
+minecraft:chainmail_boots, 锁链靴子
+minecraft:iron_helmet, 铁头盔
+minecraft:iron_chestplate, 铁胸甲
+minecraft:iron_leggings, 铁护腿
+minecraft:iron_boots, 铁靴子
+minecraft:diamond_helmet, 钻石头盔
+minecraft:diamond_chestplate, 钻石胸甲
+minecraft:diamond_leggings, 钻石护腿
+minecraft:diamond_boots, 钻石靴子
+minecraft:golden_helmet, 金头盔
+minecraft:golden_chestplate, 金胸甲
+minecraft:golden_leggings, 金护腿
+minecraft:golden_boots, 金靴子
+minecraft:flint, 燧石
+minecraft:porkchop, 生猪排
+minecraft:cooked_porkchop, 熟猪排
+minecraft:painting, 画
+minecraft:golden_apple:0, 金苹果
+minecraft:golden_apple:1, 金苹果
+minecraft:sign, 告示牌
+minecraft:wooden_door, 木门
+minecraft:bucket, 桶
+minecraft:water_bucket, 水桶
+minecraft:lava_bucket, 岩浆桶
+minecraft:minecart, 矿车
+minecraft:saddle, 鞍
+minecraft:iron_door, 铁门
+minecraft:redstone, 红石
+minecraft:snowball, 雪球
+minecraft:boat, 船
+minecraft:leather, 皮革
+minecraft:milk_bucket, 牛奶
+minecraft:brick, 红砖
+minecraft:clay_ball, 粘土
+minecraft:reeds, 甘蔗
+minecraft:paper, 纸
+minecraft:book, 书
+minecraft:slime_ball, 粘液球
+minecraft:chest_minecart, 运输矿车
+minecraft:furnace_minecart, 动力矿车
+minecraft:egg, 鸡蛋
+minecraft:compass, 指南针
+minecraft:fishing_rod, 钓鱼竿
+minecraft:clock, 钟
+minecraft:glowstone_dust, 萤石粉
+minecraft:fish:0, 生鱼
+minecraft:fish:1, 生鲑鱼
+minecraft:fish:2, 小丑鱼
+minecraft:fish:3, 河豚
+minecraft:cooked_fished:0, 熟鱼
+minecraft:cooked_fished:1, 熟鲑鱼
+minecraft:dye:0, 墨囊
+minecraft:dye:1, 玫瑰红
+minecraft:dye:2, 仙人掌绿
+minecraft:dye:3, 可可豆
+minecraft:dye:4, 青金石
+minecraft:dye:5, 紫色染料
+minecraft:dye:6, 青色染料
+minecraft:dye:7, 淡灰色染料
+minecraft:dye:8, 灰色染料
+minecraft:dye:9, 粉红色染料
+minecraft:dye:10, 黄绿色染料
+minecraft:dye:11, 蒲公英黄
+minecraft:dye:12, 淡蓝色染料
+minecraft:dye:13, 品红色染料
+minecraft:dye:14, 橙色染料
+minecraft:dye:15, 骨粉
+minecraft:bone, 骨头
+minecraft:sugar, 糖
+minecraft:cake, 蛋糕
+minecraft:bed, 床
+minecraft:repeater, 红石中继器
+minecraft:cookie, 曲奇
+minecraft:filled_map:0, 地图
+minecraft:shears, 剪刀
+minecraft:melon, 西瓜
+minecraft:pumpkin_seeds, 南瓜种子
+minecraft:melon_seeds, 西瓜种子
+minecraft:beef, 生牛肉
+minecraft:cooked_beef, 牛排
+minecraft:chicken, 生鸡肉
+minecraft:cooked_chicken, 熟鸡肉
+minecraft:rotten_flesh, 腐肉
+minecraft:ender_pearl, 末影珍珠
+minecraft:blaze_rod, 烈焰棒
+minecraft:ghast_tear, 恶魂之泪
+minecraft:gold_nugget, 金粒
+minecraft:nether_wart, 地狱疣
+minecraft:potion:0, 水瓶
+minecraft:potion:8193, 再生药水
+minecraft:potion:8225, 再生药水
+minecraft:potion:8257, 再生药水
+minecraft:potion:16385, 喷溅型 再生药水
+minecraft:potion:16417, 喷溅型 再生药水
+minecraft:potion:16449, 喷溅型 再生药水
+minecraft:potion:8194, 迅捷药水
+minecraft:potion:8226, 迅捷药水
+minecraft:potion:8258, 迅捷药水
+minecraft:potion:16386, 喷溅型 迅捷药水
+minecraft:potion:16418, 喷溅型 迅捷药水
+minecraft:potion:16450, 喷溅型 迅捷药水
+minecraft:potion:8227, 抗火药水
+minecraft:potion:8259, 抗火药水
+minecraft:potion:16419, 喷溅型 抗火药水
+minecraft:potion:16451, 喷溅型 抗火药水
+minecraft:potion:8196, 剧毒药水
+minecraft:potion:8228, 剧毒药水
+minecraft:potion:8260, 剧毒药水
+minecraft:potion:16388, 喷溅型 剧毒药水
+minecraft:potion:16420, 喷溅型 剧毒药水
+minecraft:potion:16452, 喷溅型 剧毒药水
+minecraft:potion:8261, 治疗药水
+minecraft:potion:8229, 治疗药水
+minecraft:potion:16453, 喷溅型 治疗药水
+minecraft:potion:16421, 喷溅型 治疗药水
+minecraft:potion:8230, 夜视药水
+minecraft:potion:8262, 夜视药水
+minecraft:potion:16422, 喷溅型 夜视药水
+minecraft:potion:16454, 喷溅型 夜视药水
+minecraft:potion:8232, 虚弱药水
+minecraft:potion:8264, 虚弱药水
+minecraft:potion:16424, 喷溅型 虚弱药水
+minecraft:potion:16456, 喷溅型 虚弱药水
+minecraft:potion:8201, 力量药水
+minecraft:potion:8233, 力量药水
+minecraft:potion:8265, 力量药水
+minecraft:potion:16393, 喷溅型 力量药水
+minecraft:potion:16425, 喷溅型 力量药水
+minecraft:potion:16457, 喷溅型 力量药水
+minecraft:potion:8234, 迟缓药水
+minecraft:potion:8266, 迟缓药水
+minecraft:potion:16426, 喷溅型 迟缓药水
+minecraft:potion:16458, 喷溅型 迟缓药水
+minecraft:potion:8268, 伤害药水
+minecraft:potion:8236, 伤害药水
+minecraft:potion:16460, 喷溅型 伤害药水
+minecraft:potion:16428, 喷溅型 伤害药水
+minecraft:potion:8237, 水肺药水
+minecraft:potion:8269, 水肺药水
+minecraft:potion:16429, 喷溅型 水肺药水
+minecraft:potion:16461, 喷溅型 水肺药水
+minecraft:potion:8238, 隐身药水
+minecraft:potion:8270, 隐身药水
+minecraft:potion:16430, 喷溅型 隐身药水
+minecraft:potion:16462, 喷溅型 隐身药水
+minecraft:glass_bottle, 玻璃瓶
+minecraft:spider_eye, 蜘蛛眼
+minecraft:fermented_spider_eye, 发酵蛛眼
+minecraft:blaze_powder, 烈焰粉
+minecraft:magma_cream, 岩浆膏
+minecraft:brewing_stand, 酿造台
+minecraft:cauldron, 炼药锅
+minecraft:ender_eye, 末影之眼
+minecraft:speckled_melon, 闪烁的西瓜
+minecraft:spawn_egg:50, 生成 爬行者
+minecraft:spawn_egg:51, 生成 骷髅
+minecraft:spawn_egg:52, 生成 蜘蛛
+minecraft:spawn_egg:54, 生成 僵尸
+minecraft:spawn_egg:55, 生成 史莱姆
+minecraft:spawn_egg:56, 生成 恶魂
+minecraft:spawn_egg:57, 生成 僵尸猪人
+minecraft:spawn_egg:58, 生成 末影人
+minecraft:spawn_egg:59, 生成 洞穴蜘蛛
+minecraft:spawn_egg:60, 生成 蠹虫
+minecraft:spawn_egg:61, 生成 烈焰人
+minecraft:spawn_egg:62, 生成 岩浆怪
+minecraft:spawn_egg:65, 生成 蝙蝠
+minecraft:spawn_egg:66, 生成 女巫
+minecraft:spawn_egg:90, 生成 猪
+minecraft:spawn_egg:91, 生成 羊
+minecraft:spawn_egg:92, 生成 牛
+minecraft:spawn_egg:93, 生成 鸡
+minecraft:spawn_egg:94, 生成 鱿鱼
+minecraft:spawn_egg:95, 生成 狼
+minecraft:spawn_egg:96, 生成 哞菇
+minecraft:spawn_egg:98, 生成 豹猫
+minecraft:spawn_egg:100, 生成 马
+minecraft:spawn_egg:120, 生成 村民
+minecraft:experience_bottle, 附魔之瓶
+minecraft:fire_charge, 火焰弹
+minecraft:writable_book, 书与笔
+minecraft:written_book, 成书
+minecraft:emerald, 绿宝石
+minecraft:item_frame, 物品展示框
+minecraft:flower_pot, 花盆
+minecraft:carrot, 胡萝卜
+minecraft:potato, 马铃薯
+minecraft:baked_potato, 烤马铃薯
+minecraft:poisonous_potato, 毒马铃薯
+minecraft:map, 空地图
+minecraft:golden_carrot, 金萝卜
+minecraft:skull:0, 骷髅头颅
+minecraft:skull:1, 凋灵骷髅头颅
+minecraft:skull:2, 僵尸的头
+minecraft:skull:3, 头
+minecraft:skull:4, 爬行者的头
+minecraft:carrot_on_a_stick, 萝卜钓竿
+minecraft:nether_star, 下界之星
+minecraft:pumpkin_pie, 南瓜派
+minecraft:fireworks, 烟花火箭
+minecraft:firework_charge, 烟火之星
+minecraft:enchanted_book, 附魔书
+minecraft:comparator, 红石比较器
+minecraft:netherbrick, 地狱砖
+minecraft:quartz, 下界石英
+minecraft:tnt_minecart, TNT矿车
+minecraft:hopper_minecart, 漏斗矿车
+minecraft:iron_horse_armor, 铁马铠
+minecraft:golden_horse_armor, 金马铠
+minecraft:diamond_horse_armor, 钻石马铠
+minecraft:lead, 拴绳
+minecraft:name_tag, 命名牌
+minecraft:command_block_minecart, 命令方块矿车
+minecraft:record_13, 音乐唱片
+minecraft:record_cat, 音乐唱片
+minecraft:record_blocks, 音乐唱片
+minecraft:record_chirp, 音乐唱片
+minecraft:record_far, 音乐唱片
+minecraft:record_mall, 音乐唱片
+minecraft:record_mellohi, 音乐唱片
+minecraft:record_stal, 音乐唱片
+minecraft:record_strad, 音乐唱片
+minecraft:record_ward, 音乐唱片
+minecraft:record_11, 音乐唱片
+minecraft:record_wait, 音乐唱片
+appliedenergistics2:item.ToolCertusQuartzAxe, 赛特斯石英斧
+appliedenergistics2:item.ToolCertusQuartzHoe, 赛特斯石英锄
+appliedenergistics2:item.ToolCertusQuartzSpade, 赛特斯石英锹
+appliedenergistics2:item.ToolCertusQuartzPickaxe, 赛特斯石英镐
+appliedenergistics2:item.ToolCertusQuartzSword, 赛特斯石英剑
+appliedenergistics2:item.ToolCertusQuartzWrench, 赛特斯石英扳手
+appliedenergistics2:item.ToolCertusQuartzCuttingKnife, 赛特斯石英切割刀
+appliedenergistics2:item.ToolNetherQuartzAxe, 下界石英斧
+appliedenergistics2:item.ToolNetherQuartzHoe, 下界石英锄
+appliedenergistics2:item.ToolNetherQuartzSpade, 下界石英锹
+appliedenergistics2:item.ToolNetherQuartzPickaxe, 下界石英镐
+appliedenergistics2:item.ToolNetherQuartzSword, 下界石英剑
+appliedenergistics2:item.ToolNetherQuartzWrench, 下界石英扳手
+appliedenergistics2:item.ToolNetherQuartzCuttingKnife, 下界石英切割刀
+appliedenergistics2:item.ToolEntropyManipulator, 熵变机械臂
+appliedenergistics2:item.ToolWirelessTerminal, 无线终端
+appliedenergistics2:item.ToolBiometricCard, 身份卡
+appliedenergistics2:item.ToolChargedStaff, 充能手杖
+appliedenergistics2:item.ToolMassCannon, 物质炮
+appliedenergistics2:item.ToolMemoryCard, 内存卡
+appliedenergistics2:item.ToolNetworkTool, 网络工具
+appliedenergistics2:item.ToolAdvancedNetworkTool, 高级网络工具
+appliedenergistics2:item.ToolPriorityCard, Priority Card
+appliedenergistics2:item.ToolPortableCell, 便携元件
+appliedenergistics2:item.ItemCreativeStorageCell, 创造型ME存储元件
+appliedenergistics2:item.ItemVoidStorageCell, ME虚空存储元件
+appliedenergistics2:item.ItemViewCell, 显示元件
+appliedenergistics2:item.ItemBasicStorageCell.1k, 1k-ME存储元件
+appliedenergistics2:item.ItemBasicStorageCell.4k, 4k-ME存储元件
+appliedenergistics2:item.ItemBasicStorageCell.16k, 16k-ME存储元件
+appliedenergistics2:item.ItemBasicStorageCell.64k, 64k-ME存储元件
+appliedenergistics2:item.ItemAdvancedStorageCell.256k, 256k-ME存储元件
+appliedenergistics2:item.ItemAdvancedStorageCell.1024k, 1024k-ME存储元件
+appliedenergistics2:item.ItemAdvancedStorageCell.4096k, 4096k-ME存储元件
+appliedenergistics2:item.ItemAdvancedStorageCell.16384k, 16384k-ME存储元件
+appliedenergistics2:item.ItemExtremeStorageCell.Container, ME方块容器元件
+appliedenergistics2:item.ItemExtremeStorageCell.Quantum, ME量子存储元件
+appliedenergistics2:item.ItemExtremeStorageCell.Singularity, ME数字奇点存储元件
+appliedenergistics2:item.ItemExtremeStorageCell.Universe, ME人工寰宇存储元件
+appliedenergistics2:item.ItemSpatialStorageCell.2Cubed, 2³-空间存储元件
+appliedenergistics2:item.ItemSpatialStorageCell.16Cubed, 16³-空间存储元件
+appliedenergistics2:item.ItemSpatialStorageCell.128Cubed, 128³-空间存储元件
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 石头
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 泥土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰化土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 圆石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橡木木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 云杉木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白桦木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 丛林木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 金合欢木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深色橡木木板
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 基岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 沙子
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红沙
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 沙砾
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 金矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铁矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 煤矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橡木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 云杉木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白桦木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 丛林木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 海绵
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青金石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青金石块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 沙石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制沙石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 平滑沙石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡蓝色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄绿色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粉红色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 棕色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑色羊毛
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 金块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 铁块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 砖块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - TNT
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 书架
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 苔石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑曜石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 钻石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 钻石块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 工作台
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粘土块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 地狱岩
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灵魂沙
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 萤石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡蓝色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄绿色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粉红色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 棕色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑色染色玻璃
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 石头怪物蛋
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 圆石怪物蛋
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 石砖怪物蛋
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 苔石砖怪物蛋
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 裂石砖怪物蛋
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制石砖怪物蛋
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 苔石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 裂石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蘑菇
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蘑菇
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 西瓜
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 地狱砖块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 末地石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红石灯
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿宝石矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿宝石块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红石块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 下界石英矿石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竖纹石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 白色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 橙色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 品红色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡蓝色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黄绿色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 粉色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 灰色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 淡灰色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 青色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 紫色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 蓝色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 棕色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 绿色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 红色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 黑色染色粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 金合欢木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 深色橡木
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 赛特斯石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 赛特斯竖纹石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 干草块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 硬化粘土
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 煤炭块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 浮冰
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制赛特斯石英块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 福鲁伊克斯块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石石砖
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石砖块
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石块台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石石砖台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 陨石砖块台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 福鲁伊克斯台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 赛特斯石英台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 錾制赛特斯石英台阶
+appliedenergistics2:item.ItemFacade:0, 线缆伪装板 - 竖纹赛特斯石英台阶
+appliedenergistics2:item.ItemCrystalSeed:0, 赛特斯石英种子
+appliedenergistics2:item.ItemCrystalSeed:600, 下界石英种子
+appliedenergistics2:item.ItemCrystalSeed:1200, 福鲁伊克斯种子
+appliedenergistics2:item.ItemCrystalSeed:0, 赛特斯石英种子
+appliedenergistics2:item.ItemCrystalSeed:600, 下界石英种子
+appliedenergistics2:item.ItemCrystalSeed:1200, 福鲁伊克斯种子
+appliedenergistics2:item.ItemCrystalSeed:0, 赛特斯石英种子
+appliedenergistics2:item.ItemCrystalSeed:600, 下界石英种子
+appliedenergistics2:item.ItemCrystalSeed:1200, 福鲁伊克斯种子
+appliedenergistics2:item.ItemEncodedPattern, 编码样板
+appliedenergistics2:item.ToolColorApplicator, 染色器
+appliedenergistics2:item.ItemPaintBall:0, 染色球 - 白色
+appliedenergistics2:item.ItemPaintBall:1, 染色球 - 橙色
+appliedenergistics2:item.ItemPaintBall:2, 染色球 - 品红色
+appliedenergistics2:item.ItemPaintBall:3, 染色球 - 淡蓝色
+appliedenergistics2:item.ItemPaintBall:4, 染色球 - 黄色
+appliedenergistics2:item.ItemPaintBall:5, 染色球 - 柠檬色
+appliedenergistics2:item.ItemPaintBall:6, 染色球 - 粉色
+appliedenergistics2:item.ItemPaintBall:7, 染色球 - 灰色
+appliedenergistics2:item.ItemPaintBall:8, 染色球 - 淡灰色
+appliedenergistics2:item.ItemPaintBall:9, 染色球 - 青色
+appliedenergistics2:item.ItemPaintBall:10, 染色球 - 紫色
+appliedenergistics2:item.ItemPaintBall:11, 染色球 - 蓝色
+appliedenergistics2:item.ItemPaintBall:12, 染色球 - 棕色
+appliedenergistics2:item.ItemPaintBall:13, 染色球 - 绿色
+appliedenergistics2:item.ItemPaintBall:14, 染色球 - 红色
+appliedenergistics2:item.ItemPaintBall:15, 染色球 - 黑色
+appliedenergistics2:item.ItemPaintBall:20, 染色球 - 光通 白色
+appliedenergistics2:item.ItemPaintBall:21, 染色球 - 光通 橙色
+appliedenergistics2:item.ItemPaintBall:22, 染色球 - 光通 品红色
+appliedenergistics2:item.ItemPaintBall:23, 染色球 - 光通 淡蓝色
+appliedenergistics2:item.ItemPaintBall:24, 染色球 - 光通 黄色
+appliedenergistics2:item.ItemPaintBall:25, 染色球 - 光通 柠檬色
+appliedenergistics2:item.ItemPaintBall:26, 染色球 - 光通 粉色
+appliedenergistics2:item.ItemPaintBall:27, 染色球 - 光通 灰色
+appliedenergistics2:item.ItemPaintBall:28, 染色球 - 光通 淡灰色
+appliedenergistics2:item.ItemPaintBall:29, 染色球 - 光通 青色
+appliedenergistics2:item.ItemPaintBall:30, 染色球 - 光通 紫色
+appliedenergistics2:item.ItemPaintBall:31, 染色球 - 光通 蓝色
+appliedenergistics2:item.ItemPaintBall:32, 染色球 - 光通 棕色
+appliedenergistics2:item.ItemPaintBall:33, 染色球 - 光通 绿色
+appliedenergistics2:item.ItemPaintBall:34, 染色球 - 光通 红色
+appliedenergistics2:item.ItemPaintBall:35, 染色球 - 光通 黑色
+appliedenergistics2:item.ItemMultiMaterial:28, 高级卡
+appliedenergistics2:item.ItemMultiMaterial:44, 破坏核心
+appliedenergistics2:item.ItemMultiMaterial:25, 基础卡
+appliedenergistics2:item.ItemMultiMaterial:52, 空白样板
+appliedenergistics2:item.ItemMultiMaterial:23, 运算处理器
+appliedenergistics2:item.ItemMultiMaterial:13, 运算压印模板
+appliedenergistics2:item.ItemMultiMaterial:16, 运算电路板
+appliedenergistics2:item.ItemMultiMaterial:63, 高级阻挡卡
+appliedenergistics2:item.ItemMultiMaterial:27, 容量卡
+appliedenergistics2:item.ItemMultiMaterial:53, 合成卡
+appliedenergistics2:item.ItemMultiMaterial:69, Equal Distribution Card
+appliedenergistics2:item.ItemMultiMaterial:66, 伪合成卡
+appliedenergistics2:item.ItemMultiMaterial:29, 模糊卡
+appliedenergistics2:item.ItemMultiMaterial:31, 反相卡
+appliedenergistics2:item.ItemMultiMaterial:65, Locking Card
+appliedenergistics2:item.ItemMultiMaterial:55, 矿典过滤卡
+appliedenergistics2:item.ItemMultiMaterial:54, 样板容量卡
+appliedenergistics2:item.ItemMultiMaterial:62, 空白样板重填卡
+appliedenergistics2:item.ItemMultiMaterial:26, 红石卡
+appliedenergistics2:item.ItemMultiMaterial:30, 加速卡
+appliedenergistics2:item.ItemMultiMaterial:64, 粘性卡
+appliedenergistics2:item.ItemMultiMaterial:56, 超级加速卡
+appliedenergistics2:item.ItemMultiMaterial:67, Superluminal Acceleration Card
+appliedenergistics2:item.ItemMultiMaterial:68, Overflow Void Card
+appliedenergistics2:item.ItemMultiMaterial:58, 1024k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:34, 128³-空间组件
+appliedenergistics2:item.ItemMultiMaterial:60, 16384k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:33, 16³-空间组件
+appliedenergistics2:item.ItemMultiMaterial:37, 16k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:35, 1k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:57, 256k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:32, 2³-空间组件
+appliedenergistics2:item.ItemMultiMaterial:59, 4096k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:36, 4k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:38, 64k-ME存储组件
+appliedenergistics2:item.ItemMultiMaterial:0, 赛特斯石英水晶
+appliedenergistics2:item.ItemMultiMaterial:1, 充能赛特斯石英水晶
+appliedenergistics2:item.ItemMultiMaterial:2, 赛特斯石英粉
+appliedenergistics2:item.ItemMultiMaterial:61, ME高级存储外壳
+appliedenergistics2:item.ItemMultiMaterial:39, ME存储外壳
+appliedenergistics2:item.ItemMultiMaterial:46, 末影粉
+appliedenergistics2:item.ItemMultiMaterial:24, 工程处理器
+appliedenergistics2:item.ItemMultiMaterial:14, 工程压印模板
+appliedenergistics2:item.ItemMultiMaterial:17, 工程电路板
+appliedenergistics2:item.ItemMultiMaterial:4, 面粉
+appliedenergistics2:item.ItemMultiMaterial:7, 福鲁伊克斯水晶
+appliedenergistics2:item.ItemMultiMaterial:8, 福鲁伊克斯粉
+appliedenergistics2:item.ItemMultiMaterial:9, 福鲁伊克斯珍珠
+appliedenergistics2:item.ItemMultiMaterial:43, 成型核心
+appliedenergistics2:item.ItemMultiMaterial:51, 金粉
+appliedenergistics2:item.ItemMultiMaterial:49, 铁粉
+appliedenergistics2:item.ItemMultiMaterial:50, 铁粒
+appliedenergistics2:item.ItemMultiMaterial:22, 逻辑处理器
+appliedenergistics2:item.ItemMultiMaterial:15, 逻辑压印模板
+appliedenergistics2:item.ItemMultiMaterial:18, 逻辑电路板
+appliedenergistics2:item.ItemMultiMaterial:6, 物质球
+appliedenergistics2:item.ItemMultiMaterial:21, 名称压印模板
+appliedenergistics2:item.ItemMultiMaterial:3, 下界石英粉
+appliedenergistics2:item.ItemMultiMaterial:10, 高纯赛特斯石英水晶
+appliedenergistics2:item.ItemMultiMaterial:12, 高纯福鲁伊克斯水晶
+appliedenergistics2:item.ItemMultiMaterial:11, 高纯下界石英水晶
+appliedenergistics2:item.ItemMultiMaterial:48, 量子纠缠奇点
+appliedenergistics2:item.ItemMultiMaterial:5, 硅
+appliedenergistics2:item.ItemMultiMaterial:19, 硅压印模板
+appliedenergistics2:item.ItemMultiMaterial:20, 硅板
+appliedenergistics2:item.ItemMultiMaterial:47, 奇点
+appliedenergistics2:item.ItemMultiMaterial:45, 陨石粉
+appliedenergistics2:item.ItemMultiMaterial:41, 无线接收器
+appliedenergistics2:item.ItemMultiMaterial:42, 无线信号增幅器
+appliedenergistics2:item.ItemMultiMaterial:40, 木齿轮
+appliedenergistics2:item.ItemMultiPart:300, ME破坏面板
+appliedenergistics2:item.ItemMultiPart:120, 线缆锚
+appliedenergistics2:item.ItemMultiPart:20, ME包层线缆 - 白色
+appliedenergistics2:item.ItemMultiPart:21, ME包层线缆 - 橙色
+appliedenergistics2:item.ItemMultiPart:22, ME包层线缆 - 品红色
+appliedenergistics2:item.ItemMultiPart:23, ME包层线缆 - 淡蓝色
+appliedenergistics2:item.ItemMultiPart:24, ME包层线缆 - 黄色
+appliedenergistics2:item.ItemMultiPart:25, ME包层线缆 - 柠檬色
+appliedenergistics2:item.ItemMultiPart:26, ME包层线缆 - 粉色
+appliedenergistics2:item.ItemMultiPart:27, ME包层线缆 - 灰色
+appliedenergistics2:item.ItemMultiPart:28, ME包层线缆 - 淡灰色
+appliedenergistics2:item.ItemMultiPart:29, ME包层线缆 - 青色
+appliedenergistics2:item.ItemMultiPart:30, ME包层线缆 - 紫色
+appliedenergistics2:item.ItemMultiPart:31, ME包层线缆 - 蓝色
+appliedenergistics2:item.ItemMultiPart:32, ME包层线缆 - 棕色
+appliedenergistics2:item.ItemMultiPart:33, ME包层线缆 - 绿色
+appliedenergistics2:item.ItemMultiPart:34, ME包层线缆 - 红色
+appliedenergistics2:item.ItemMultiPart:35, ME包层线缆 - 黑色
+appliedenergistics2:item.ItemMultiPart:36, ME包层线缆 - Fluix默认色
+appliedenergistics2:item.ItemMultiPart:60, ME致密智能线缆 - 白色
+appliedenergistics2:item.ItemMultiPart:61, ME致密智能线缆 - 橙色
+appliedenergistics2:item.ItemMultiPart:62, ME致密智能线缆 - 品红色
+appliedenergistics2:item.ItemMultiPart:63, ME致密智能线缆 - 淡蓝色
+appliedenergistics2:item.ItemMultiPart:64, ME致密智能线缆 - 黄色
+appliedenergistics2:item.ItemMultiPart:65, ME致密智能线缆 - 柠檬色
+appliedenergistics2:item.ItemMultiPart:66, ME致密智能线缆 - 粉色
+appliedenergistics2:item.ItemMultiPart:67, ME致密智能线缆 - 灰色
+appliedenergistics2:item.ItemMultiPart:68, ME致密智能线缆 - 淡灰色
+appliedenergistics2:item.ItemMultiPart:69, ME致密智能线缆 - 青色
+appliedenergistics2:item.ItemMultiPart:70, ME致密智能线缆 - 紫色
+appliedenergistics2:item.ItemMultiPart:71, ME致密智能线缆 - 蓝色
+appliedenergistics2:item.ItemMultiPart:72, ME致密智能线缆 - 棕色
+appliedenergistics2:item.ItemMultiPart:73, ME致密智能线缆 - 绿色
+appliedenergistics2:item.ItemMultiPart:74, ME致密智能线缆 - 红色
+appliedenergistics2:item.ItemMultiPart:75, ME致密智能线缆 - 黑色
+appliedenergistics2:item.ItemMultiPart:76, ME致密智能线缆 - Fluix默认色
+appliedenergistics2:item.ItemMultiPart:520, ME致密包层线缆 - 白色
+appliedenergistics2:item.ItemMultiPart:521, ME致密包层线缆 - 橙色
+appliedenergistics2:item.ItemMultiPart:522, ME致密包层线缆 - 品红色
+appliedenergistics2:item.ItemMultiPart:523, ME致密包层线缆 - 淡蓝色
+appliedenergistics2:item.ItemMultiPart:524, ME致密包层线缆 - 黄色
+appliedenergistics2:item.ItemMultiPart:525, ME致密包层线缆 - 柠檬色
+appliedenergistics2:item.ItemMultiPart:526, ME致密包层线缆 - 粉色
+appliedenergistics2:item.ItemMultiPart:527, ME致密包层线缆 - 灰色
+appliedenergistics2:item.ItemMultiPart:528, ME致密包层线缆 - 淡灰色
+appliedenergistics2:item.ItemMultiPart:529, ME致密包层线缆 - 青色
+appliedenergistics2:item.ItemMultiPart:530, ME致密包层线缆 - 紫色
+appliedenergistics2:item.ItemMultiPart:531, ME致密包层线缆 - 蓝色
+appliedenergistics2:item.ItemMultiPart:532, ME致密包层线缆 - 棕色
+appliedenergistics2:item.ItemMultiPart:533, ME致密包层线缆 - 绿色
+appliedenergistics2:item.ItemMultiPart:534, ME致密包层线缆 - 红色
+appliedenergistics2:item.ItemMultiPart:535, ME致密包层线缆 - 黑色
+appliedenergistics2:item.ItemMultiPart:536, ME致密包层线缆 - Fluix默认色
+appliedenergistics2:item.ItemMultiPart:0, ME玻璃线缆 - 白色
+appliedenergistics2:item.ItemMultiPart:1, ME玻璃线缆 - 橙色
+appliedenergistics2:item.ItemMultiPart:2, ME玻璃线缆 - 品红色
+appliedenergistics2:item.ItemMultiPart:3, ME玻璃线缆 - 淡蓝色
+appliedenergistics2:item.ItemMultiPart:4, ME玻璃线缆 - 黄色
+appliedenergistics2:item.ItemMultiPart:5, ME玻璃线缆 - 柠檬色
+appliedenergistics2:item.ItemMultiPart:6, ME玻璃线缆 - 粉色
+appliedenergistics2:item.ItemMultiPart:7, ME玻璃线缆 - 灰色
+appliedenergistics2:item.ItemMultiPart:8, ME玻璃线缆 - 淡灰色
+appliedenergistics2:item.ItemMultiPart:9, ME玻璃线缆 - 青色
+appliedenergistics2:item.ItemMultiPart:10, ME玻璃线缆 - 紫色
+appliedenergistics2:item.ItemMultiPart:11, ME玻璃线缆 - 蓝色
+appliedenergistics2:item.ItemMultiPart:12, ME玻璃线缆 - 棕色
+appliedenergistics2:item.ItemMultiPart:13, ME玻璃线缆 - 绿色
+appliedenergistics2:item.ItemMultiPart:14, ME玻璃线缆 - 红色
+appliedenergistics2:item.ItemMultiPart:15, ME玻璃线缆 - 黑色
+appliedenergistics2:item.ItemMultiPart:16, ME玻璃线缆 - Fluix默认色
+appliedenergistics2:item.ItemMultiPart:40, ME智能线缆 - 白色
+appliedenergistics2:item.ItemMultiPart:41, ME智能线缆 - 橙色
+appliedenergistics2:item.ItemMultiPart:42, ME智能线缆 - 品红色
+appliedenergistics2:item.ItemMultiPart:43, ME智能线缆 - 淡蓝色
+appliedenergistics2:item.ItemMultiPart:44, ME智能线缆 - 黄色
+appliedenergistics2:item.ItemMultiPart:45, ME智能线缆 - 柠檬色
+appliedenergistics2:item.ItemMultiPart:46, ME智能线缆 - 粉色
+appliedenergistics2:item.ItemMultiPart:47, ME智能线缆 - 灰色
+appliedenergistics2:item.ItemMultiPart:48, ME智能线缆 - 淡灰色
+appliedenergistics2:item.ItemMultiPart:49, ME智能线缆 - 青色
+appliedenergistics2:item.ItemMultiPart:50, ME智能线缆 - 紫色
+appliedenergistics2:item.ItemMultiPart:51, ME智能线缆 - 蓝色
+appliedenergistics2:item.ItemMultiPart:52, ME智能线缆 - 棕色
+appliedenergistics2:item.ItemMultiPart:53, ME智能线缆 - 绿色
+appliedenergistics2:item.ItemMultiPart:54, ME智能线缆 - 红色
+appliedenergistics2:item.ItemMultiPart:55, ME智能线缆 - 黑色
+appliedenergistics2:item.ItemMultiPart:56, ME智能线缆 - Fluix默认色
+appliedenergistics2:item.ItemMultiPart:420, ME交换监控器
+appliedenergistics2:item.ItemMultiPart:360, ME合成终端
+appliedenergistics2:item.ItemMultiPart:200, 暗色照明面板
+appliedenergistics2:item.ItemMultiPart:260, ME输出总线
+appliedenergistics2:item.ItemMultiPart:320, ME成型面板
+appliedenergistics2:item.ItemMultiPart:301, ME精准破坏面板
+appliedenergistics2:item.ItemMultiPart:240, ME输入总线
+appliedenergistics2:item.ItemMultiPart:440, ME接口
+appliedenergistics2:item.ItemMultiPart:480, ME接口终端
+appliedenergistics2:item.ItemMultiPart:100, ME反相触发总线
+appliedenergistics2:item.ItemMultiPart:280, ME标准发信器
+appliedenergistics2:item.ItemMultiPart:160, 亮色照明面板
+appliedenergistics2:item.ItemMultiPart:471, P2P通道 - ME接口
+appliedenergistics2:item.ItemMultiPart:462, P2P通道 - 物品
+appliedenergistics2:item.ItemMultiPart:467, P2P通道 - 光
+appliedenergistics2:item.ItemMultiPart:463, P2P通道 - 液体
+appliedenergistics2:item.ItemMultiPart:460, P2P通道 - ME
+appliedenergistics2:item.ItemMultiPart:466, P2P通道 - RF
+appliedenergistics2:item.ItemMultiPart:461, P2P通道 - 红石
+appliedenergistics2:item.ItemMultiPart:472, P2P通道 - 声音
+appliedenergistics2:item.ItemMultiPart:690, Creative Energy Anchor
+appliedenergistics2:item.ItemMultiPart:340, ME样板终端
+appliedenergistics2:item.ItemMultiPart:500, ME增广样板终端
+appliedenergistics2:item.ItemMultiPart:140, 石英纤维
+appliedenergistics2:item.ItemMultiPart:180, 照明面板
+appliedenergistics2:item.ItemMultiPart:220, ME存储总线
+appliedenergistics2:item.ItemMultiPart:400, ME存储监控器
+appliedenergistics2:item.ItemMultiPart:380, ME终端
+appliedenergistics2:item.ItemMultiPart:410, ME吞吐量监控器
+appliedenergistics2:item.ItemMultiPart:80, ME触发总线
+portablemechest:portable_me_chest, 便携式ME箱子
+portablemechest:portable_me_drive, 便携式ME驱动器

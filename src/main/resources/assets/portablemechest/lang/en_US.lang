@@ -1,0 +1,15 @@
+item.portablemechest.portable_me_chest.name=Portable ME Chest
+chat.portablemechest.insert_cell=Insert a storage cell via Shift+Right-Click.
+tooltip.portablemechest.use.insert=Shift+Right-Click: insert/remove a storage cell
+tooltip.portablemechest.use.access=Right-Click: open cell slot; with a cell inserted, opens its contents
+item.portablemechest.portable_me_drive.name=Portable ME Drive
+tooltip.portablemechest.drive.insert=Shift+Right-Click: manage stored cells
+tooltip.portablemechest.drive.access=Right-Click: open contents of all inserted cells
+item.portablemechest.portable_io_port.name=Portable IO Port
+tooltip.portablemechest.ioport.insert=Right-Click: open; put source cell (left) and target cell (right)
+tooltip.portablemechest.ioport.transfer=Items matching the target rules move from source to target automatically
+tooltip.portablemechest.magnet=§b§lMagnet Mode§r
+tooltip.portablemechest.magnet.toggle=Shift+Right-Click in air to toggle magnet mode
+tooltip.portablemechest.magnet.off=Off
+tooltip.portablemechest.magnet.on=On
+tile.portablemechest.portable_output_chest.name=Portable Output Chest

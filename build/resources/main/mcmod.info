@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "portablemechest",
+    "name": "PortableMEChest",
+    "description": "Portable ME Chest that accepts any AE2 storage cell (including TakoTech ore cells).",
+    "version": "0.1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Codex"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "appliedenergistics2"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+item.portablemechest.portable_me_chest.name=便携式ME箱子
+chat.portablemechest.insert_cell=按住Shift并右键以放入存储元件
+tooltip.portablemechest.use.insert=Shift+右键：放入/取出存储元件
+tooltip.portablemechest.use.access=右键：打开元件槽；已插入后右键打开元件内容
+item.portablemechest.portable_me_drive.name=便携式ME驱动器
+tooltip.portablemechest.drive.insert=Shift+右键：管理存储元件
+tooltip.portablemechest.drive.access=右键：打开已插入元件的物品列表
+item.portablemechest.portable_io_port.name=便携式IO端口
+tooltip.portablemechest.ioport.insert=右键打开：左槽放源元件，右槽放目标元件
+tooltip.portablemechest.ioport.transfer=符合目标规则的物品会自动从源元件搬运到目标元件
+tooltip.portablemechest.magnet=§b§l磁铁模式§r
+tooltip.portablemechest.magnet.toggle=Shift+右键空气切换磁铁模式
+tooltip.portablemechest.magnet.off=关闭
+tooltip.portablemechest.magnet.on=开启
+tile.portablemechest.portable_output_chest.name=便携式输出箱
